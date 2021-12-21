@@ -1,0 +1,9 @@
+D:\TDI\1er annee\S2\PEOO\Projet(yassineElkammi)\Projet(yassineElkammi)\bin\Debug\Projet(yassineElkammi).exe
+D:\TDI\1er annee\S2\PEOO\Projet(yassineElkammi)\Projet(yassineElkammi)\bin\Debug\Projet(yassineElkammi).pdb
+D:\TDI\1er annee\S2\PEOO\Projet(yassineElkammi)\Projet(yassineElkammi)\obj\Debug\Projet(yassineElkammi).csprojAssemblyReference.cache
+D:\TDI\1er annee\S2\PEOO\Projet(yassineElkammi)\Projet(yassineElkammi)\obj\Debug\Projet_yassineElkammi_.Gestiondesarticles.resources
+D:\TDI\1er annee\S2\PEOO\Projet(yassineElkammi)\Projet(yassineElkammi)\obj\Debug\Projet_yassineElkammi_.Properties.Resources.resources
+D:\TDI\1er annee\S2\PEOO\Projet(yassineElkammi)\Projet(yassineElkammi)\obj\Debug\Projet(yassineElkammi).csproj.GenerateResource.cache
+D:\TDI\1er annee\S2\PEOO\Projet(yassineElkammi)\Projet(yassineElkammi)\obj\Debug\Projet(yassineElkammi).csproj.CoreCompileInputs.cache
+D:\TDI\1er annee\S2\PEOO\Projet(yassineElkammi)\Projet(yassineElkammi)\obj\Debug\Projet(yassineElkammi).exe
+D:\TDI\1er annee\S2\PEOO\Projet(yassineElkammi)\Projet(yassineElkammi)\obj\Debug\Projet(yassineElkammi).pdb
